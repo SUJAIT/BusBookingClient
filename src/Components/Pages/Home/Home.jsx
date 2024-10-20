@@ -8,7 +8,9 @@ import MarqueeTwo from '../Marquee/MarqueeTwo'
 import BannerTwo from '../Banner/BannerTwo'
 import BannerThree from '../Banner/BannerThree'
 import BannerFour from '../Banner/BannerFour'
-import DayPiker from '../Search/DayPiker'
+import BannerFive from '../Banner/BannerFive'
+import BannerSex from '../Banner/BannerSex'
+
 
 const Home = () => {
   return (
@@ -21,6 +23,8 @@ const Home = () => {
      <BannerTwo></BannerTwo>
      <BannerThree></BannerThree>
      <BannerFour></BannerFour>
+     <BannerFive></BannerFive>
+     <BannerSex></BannerSex>
      <MarqueeTwo></MarqueeTwo>
       <Footer></Footer>
     </div>
