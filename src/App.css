@@ -1,0 +1,28 @@
+
+.allHW{
+    max-width: 1280px;
+  margin: 0 auto;
+}
+
+.w2{
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.widthFull{
+  width: 100%;
+}
+.background-color{
+  background-color: #f04935;
+}
+#br{
+    color: rgb(244, 243, 243);
+    border: 0.1px solid;
+}
+.banner{
+width: 2000px;
+height: 500px;
+}
+
