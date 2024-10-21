@@ -10,6 +10,8 @@ import BannerThree from '../Banner/BannerThree'
 import BannerFour from '../Banner/BannerFour'
 import BannerFive from '../Banner/BannerFive'
 import BannerSex from '../Banner/BannerSex'
+import Carosal from '../Banner/Carosal'
+import BusCard from '../AllBus/BusCard'
 
 
 const Home = () => {
@@ -18,14 +20,14 @@ const Home = () => {
       <NavBar></NavBar>
      <div id='br'></div>
      <MarqueeOne></MarqueeOne>
-     <BannerOne></BannerOne>
+  <Carosal></Carosal>
      <Search></Search>
      <BannerTwo></BannerTwo>
      <BannerThree></BannerThree>
      <BannerFour></BannerFour>
      <BannerFive></BannerFive>
      <BannerSex></BannerSex>
-     <MarqueeTwo></MarqueeTwo>
+     <BusCard></BusCard>
       <Footer></Footer>
     </div>
   )

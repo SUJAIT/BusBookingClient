@@ -2,6 +2,7 @@
 .allHW{
     max-width: 1280px;
   margin: 0 auto;
+
 }
 
 .w2{
@@ -46,3 +47,9 @@ height: 500px;
   justify-content: center;
   align-items: center;
 }
+
+
+.carouselParent{
+  width: 400px;
+}
+
