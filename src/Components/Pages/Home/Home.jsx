@@ -18,16 +18,15 @@ const Home = () => {
   return (
     <div>
       <NavBar></NavBar>
-     <div id='br'></div>
-     <MarqueeOne></MarqueeOne>
-  <Carosal></Carosal>
-     <Search></Search>
-     <BannerTwo></BannerTwo>
-     <BannerThree></BannerThree>
-     <BannerFour></BannerFour>
-     <BannerFive></BannerFive>
-     <BannerSex></BannerSex>
-     <BusCard></BusCard>
+      <div id='br'></div>
+      <MarqueeOne></MarqueeOne>
+      <Carosal></Carosal>
+      <Search></Search>
+      <BannerTwo></BannerTwo>
+      <BannerThree></BannerThree>
+      <BannerFour></BannerFour>
+      <BannerFive></BannerFive>
+      <BannerSex></BannerSex>
       <Footer></Footer>
     </div>
   )
