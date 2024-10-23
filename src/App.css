@@ -26,6 +26,9 @@ body {
 .background-color{
   background-color: #f04935;
 }
+.fontColor{
+  color: #f04935;
+}
 #br{
     color: rgb(244, 243, 243);
     border: 0.1px solid;

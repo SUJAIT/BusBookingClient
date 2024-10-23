@@ -3,6 +3,7 @@ import { FaRegUserCircle } from "react-icons/fa";
 import { FaBus } from "react-icons/fa";
 import { Link } from 'react-router-dom';
 
+
 const NavBar = () => {
   return (
   
@@ -48,7 +49,8 @@ const NavBar = () => {
     </ul>
   </div>
   <div className="navbar-end">
-    <a className="btn btn-ghost text-xl"><FaRegUserCircle /> Account</a>
+    <Link className="btn btn-ghost text-xl" to="/login"><FaRegUserCircle /> Account</Link>
+
   </div>
 </div>
   )
